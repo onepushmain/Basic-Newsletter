@@ -1,0 +1,19 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "Uma aplicação de newslatter com unica intenção de aprendizado em node e express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Fernando (tawliew)",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "newly": "^1.0.0",
+    "parser": "^0.1.4",
+    "request": "^2.88.2"
+  }
+}
